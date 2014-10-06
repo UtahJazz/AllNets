@@ -1,0 +1,18 @@
+﻿<xapCache source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Bin\Debug\AllNets_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="06.10.2014 3:57:07">
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\obj\Debug\AllNets.dll" archivePath="AllNets.dll" lastWriteTime="06.10.2014 3:57:06" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Assets\AppBar\feature.settings.png" archivePath="Assets\AppBar\feature.settings.png" lastWriteTime="14.08.2014 17:03:58" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="14.08.2014 0:50:15" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="04.08.2014 1:17:11" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\packages\TweetSharp.2.3.1\lib\sl4-wp\Hammock.WindowsPhone.dll" archivePath="Hammock.WindowsPhone.dll" lastWriteTime="05.10.2014 15:52:41" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\packages\TweetSharp.2.3.1\lib\sl4-wp\ICSharpCode.SharpZipLib.WindowsPhone.dll" archivePath="ICSharpCode.SharpZipLib.WindowsPhone.dll" lastWriteTime="05.10.2014 15:52:41" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="05.10.2014 15:52:41" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\packages\TweetSharp.2.3.1\lib\sl4-wp\TweetSharp.WindowsPhone.dll" archivePath="TweetSharp.WindowsPhone.dll" lastWriteTime="05.10.2014 15:52:41" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="05.10.2014 15:52:41" />
+  <file source="C:\Users\Utah_Jazz\Desktop\AllNets\AllNets\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="06.10.2014 2:55:04" />
+</xapCache>
